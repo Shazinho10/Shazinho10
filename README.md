@@ -37,3 +37,5 @@ I have extensive experience in building AI-based applications across multiple do
 
 https://github.com/Shazinho10/Shazinho10/assets/96534007/1a8a1f6e-4662-4156-9482-ad21585537ec
 
+
+https://www.loom.com/share/294ae9ff51ef4d729fca1723dd96e756
