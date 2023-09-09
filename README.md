@@ -1,8 +1,4 @@
 
-
-https://github.com/Shazinho10/Shazinho10/assets/96534007/1a8a1f6e-4662-4156-9482-ad21585537ec
-
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Haider Ali
 ==================================================================================================================================
 
@@ -36,3 +32,8 @@ I have extensive experience in building AI-based applications across multiple do
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
     </picture>
     </a></p>
+
+
+
+https://github.com/Shazinho10/Shazinho10/assets/96534007/1a8a1f6e-4662-4156-9482-ad21585537ec
+
