@@ -7,7 +7,6 @@ AI Engineer
 
 I have extensive experience in building AI-based applications across multiple domains such as Computer Vision, Natural Language Processing, Text-to-Speech synthesis, and TimeSeries Forecasting
 
-*   🌍  I'm based in Pakistan
 *   ✉️  You can contact me at [haider.dftml@gmail.com](mailto:haider.dftml@gmail.com)
 
 ### Skills 
