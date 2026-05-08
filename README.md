@@ -2,8 +2,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am an AI Engineer
 ==================================================================================================================================
 
-I have extensive experience in building AI-based applications across multiple domains such as Computer Vision, Natural Language Processing, Text-to-Speech synthesis, and TimeSeries Forecasting
-
+I have extensive experience designing and deploying end-to-end AI systems — from research and experimentation to production-grade platforms. My work spans multiple domains including Computer Vision, Natural Language Processing, Text-to-Speech Synthesis, and Time Series Forecasting.
+Beyond model development, I specialize in building MLOps platforms and AI pipelines that bring machine learning solutions to scale — covering model training, versioning, monitoring, and automated deployment workflows. I focus on bridging the gap between data science and engineering to deliver reliable, maintainable AI infrastructure.
 
 ### Skills 
 <p align="left">
